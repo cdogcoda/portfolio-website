@@ -6,3 +6,19 @@ p {
     font-size: 30px;
 }
 
+.title {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+ul {
+    margin-bottom: 60px;
+}
+
+li {
+    font-size: 25px;
+}
+
+.start {
+    font-size: 36px;
+}
